@@ -1,8 +1,9 @@
 ===ITEM_DROP MOD for MINETEST-C55===
 by PilzAdam
+small changes by Iqualfragile
 
 Introduction:
-This mod adds Minecraft like drop/pick up of items to Minetest.
+This mod adds Minecraft like pick up of items to Minetest.
 
 How to install:
 Unzip the archive an place it in minetest-base-directory/mods/minetest/
